@@ -3,7 +3,10 @@
 
 ### How to run Python script
   From notebook launcher, launch a terminal and run:
-  ``` python3 create_tables.py```
-  ``` python3 etl.py```
-  Then check test.ipynb
+
+``` python3 create_tables.py```
+  
+ ``` python3 etl.py```
+ 
+Then check test.ipynb
   
