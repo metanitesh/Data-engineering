@@ -4,8 +4,8 @@ The project process songs and logs data, transform it, create different tables f
 How to run Python script
 From notebook launcher, launch a terminal and run:
 
-python3 create_tables.py
+```python3 create_tables.py```
 
-python3 etl.py
+```python3 etl.py```
 
 Then check test.ipynb
